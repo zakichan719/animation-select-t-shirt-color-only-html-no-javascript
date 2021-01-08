@@ -1,5 +1,4 @@
-# animation-select-t-shirt-color-only-html-no-javascript 
-only html no javascript
+# animation for select color t-shirt just With  html5  no javascript 
 
 In the code I used iframe + map ;
 
