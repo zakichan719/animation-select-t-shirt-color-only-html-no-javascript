@@ -2,6 +2,6 @@
 
 In the code I used iframe + map ;
 
-#### demo =>>  https://jbscgmdnw99hqcju7unvug-on.drv.tw/T-shirt_colors/
+#### demo =>>  https://zakichan719.github.io/select-t-shirt-color-html5/
 
 
