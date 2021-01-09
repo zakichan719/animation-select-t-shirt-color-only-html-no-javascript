@@ -2,6 +2,6 @@
 
 In the code I used iframe + map ;
 
-#### demo =>>  https://zakichan719.github.io/web-site-online-course-just-html5/
+#### demo =>>  https://zakichan719.github.io/select-t-shirt-color-html5/
 
 
